@@ -5,7 +5,7 @@
 #### Note: Java 13.0.2, JavaFX 13, and Eclipse version 4.14.0 were last used to run this project
 ---
 ### To Run:
-Create a new Java project in eclipse.  
+Create a new Java project in Eclipse.  
 Drag and drop the Package folder onto the src folder.  
 Right click on the Java project -> Build Path -> Configure Build Path -> Libraries, then add the SQL driver as an external JAR to the Modulepath.  
 Open a MAMP SQL server.  
