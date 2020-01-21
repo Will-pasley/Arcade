@@ -7,7 +7,7 @@
 ### To Run:
 Create a new Java project in eclipse.  
 Drag and drop the Package folder onto the src folder.  
-Right click on the Java project -> Build Path -> Configure Build Path -> Libraries, then add the SQL driver as an external JAR to the Modulepath.
+Right click on the Java project -> Build Path -> Configure Build Path -> Libraries, then add the SQL driver as an external JAR to the Modulepath.  
 Open a MAMP SQL server.  
 Check the ScoreDatabase.java class and change the port number to match that of your server.  
 Here is a guide to run JavaFX 13 in Eclipse: https://openjfx.io/openjfx-docs/#introduction  
